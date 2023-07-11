@@ -7,13 +7,12 @@
 
 **Group Members:**
 
-Riya Vinodbhai Patel, Student ID: 40224858
-
-Anita Francis Archibong, Student ID: 27729790
-Rahul Hulli, Student ID: 40234542
-Sanchit Smarak Behera, Student ID: 40230269
-Jubin Nirmal, Student ID: 40235087
-Ugochukwu Kizito Ugwu, Student ID: 40244315
+1. Riya Vinodbhai Patel, Student ID: 40224858
+2. Anita Francis Archibong, Student ID: 27729790
+3. Rahul Hulli, Student ID: 40234542
+4. Sanchit Smarak Behera, Student ID: 40230269
+5. Jubin Nirmal, Student ID: 40235087
+6. Ugochukwu Kizito Ugwu, Student ID: 40244315
 
 **Description:**
 
