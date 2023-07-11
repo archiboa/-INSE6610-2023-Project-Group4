@@ -30,9 +30,10 @@ Welcome to our group project in Cybercrime Investigation! This project focuses o
 
 Regular communication is crucial for the success of our group project. We will use the following channels:
 
-1. Meetings: Schedule regular meetings to discuss progress, address challenges, and make important decisions. Allocate roles and responsibilities to ensure smooth coordination.
-2. Collaboration Tools: Utilize project management and collaboration tools (e.g., GitHub, Trello, Slack) to facilitate communication, track tasks, and share project-related resources.
-3. Documentation: Maintain comprehensive documentation for each stage of the project, including research findings, attack methodologies, and results.
+1. Meetings: Schedule regular meetings to discuss progress, address challenges, and make important decisions.
+2. Allocate roles and responsibilities to ensure smooth coordination.
+3. Collaboration Tools: Utilize project management and collaboration tools (e.g., GitHub, Trello, Slack) to facilitate communication, track tasks, and share project-related resources.
+4. Documentation: Maintain comprehensive documentation for each stage of the project, including research findings, attack methodologies, and results.
    
 **Project Timeline:**
 
