@@ -1,0 +1,8 @@
+**Abstract**
+
+The Tor network and Onion Services have gained high significant attention for providing anonymous and private online communications. However, maintaining anonymity in the face of potential deanonymization attacks remains a critical challenge. 
+This project aims to conduct a comprehensive survey of Tor/Onion Hidden Service deanonymization techniques and implement an attack against a self-owned Onion service. 
+The project explores various deanonymization techniques, categorizing them based on their approach, strengths, and weaknesses. 
+It provides real-world examples of deanonymization attacks and their implications. Additionally, an attack is implemented against a controlled Onion service, with strict adherence to ethical guidelines and legal considerations. The attack methodology is carefully explained, highlighting the rationale behind each step. The obtained results are evaluated and analyzed, comparing them with existing research on deanonymization techniques. 
+The project also explores mitigation strategies and ethical considerations associated with such attacks. 
+It emphasizes the importance of protecting online anonymity, responsible disclosure, and ongoing research and development to enhance the security and privacy of Tor/Onion Services.
