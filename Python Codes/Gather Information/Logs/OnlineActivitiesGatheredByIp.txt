@@ -1,0 +1,10 @@
+Timestamp: 2023-07-31 18:06:48, IP Address: 34.107.221.82
+Protocol: TCP and Source Port: 54074 was used to access Destination Port: 80 at Timestamp: 2023-07-15 15:53:05
+Protocol: TCP and Source Port: 54078 was used to access Destination Port: 80 at Timestamp: 2023-07-15 15:53:05
+Protocol: TCP and Source Port: 80 was used to access Destination Port: 54074 at Timestamp: 2023-07-15 15:53:05
+Protocol: TCP and Source Port: 80 was used to access Destination Port: 54078 at Timestamp: 2023-07-15 15:53:05
+Protocol: TCP and Source Port: 54078 was used to access Destination Port: 80 at Timestamp: 2023-07-15 15:53:16
+Protocol: TCP and Source Port: 54074 was used to access Destination Port: 80 at Timestamp: 2023-07-15 15:53:16
+Protocol: TCP and Source Port: 80 was used to access Destination Port: 54078 at Timestamp: 2023-07-15 15:53:16
+Protocol: TCP and Source Port: 80 was used to access Destination Port: 54074 at Timestamp: 2023-07-15 15:53:16
+
