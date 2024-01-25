@@ -1,4 +1,4 @@
-# -INSE6610-2023-Project-Group4 🎉🕵️‍♂️
+# Tor/Onion Hidden Service Deanonymization Techniques 🎉🕵️‍♂️
 **Cybercrime Investigation: Unraveling the Secrets of the Dark Web!** 🌐🕵️‍♀️
 
 **Project 7: SRVEY2 Tor/Onion Hidden Service Deanonymization Techniques - Survey** 📚🕵️‍♂️
